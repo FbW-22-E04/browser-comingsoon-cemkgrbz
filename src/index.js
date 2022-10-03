@@ -1,22 +1,7 @@
-// import './styles/main.scss'; // Don't delete :)
-// import smile from './scripts/smile.js'; // Feel free to delete :)
 
-// // All of your javascript should go here :)
-
-
-// const remDays = document.querySelector(".days")
-// const remHours = document.querySelector(".hours")
-// const remMinutes = document.querySelector(".minutes")
-// const remSeconds = document.querySelector(".seconds")
-// document.querySelector(".days").textContent = "sdfsfa"
-// document.querySelector("h2").textContent = "adfad"
 const newYear = new Date('1 January 2023');
 console.log("🚀 ~ newYear", newYear)
 
-
-// console.log("🚀 ~ diff", diff)
-// console.log("🚀 ~ days", diff / (1000 * 60 * 60 * 24))
-// console.log("🚀 ~ hours", diff % (1000 * 60 * 60 * 24))
 
 const days = 1000 * 60 * 60 * 24
 const hours = 1000 * 60 * 60
